@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://30-treeremoval-arborforge.netlify.app/sitemap.xml
